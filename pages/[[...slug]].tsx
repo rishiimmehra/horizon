@@ -1,4 +1,4 @@
-import Head from 'next/head';
+import Head from 'next/head'
 import getGQLClient from 'lib/graphql/client';
 import usePageSections from 'hooks/usePageSections';
 import { withMainLayout } from 'lib/utils/fetch_decorators';
